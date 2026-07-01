@@ -1,0 +1,14 @@
+path: D:/thungrackhon/datasets
+train: train/images
+val: val/images
+test: test/images
+
+nc: 7
+names: ['Glass', 'METAL', 'Metal', 'can', 'glass', 'person', 'plastic']
+
+roboflow:
+  workspace: quan-nguyen-plnnf
+  project: trash-dataset_fin-ogqnw
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/quan-nguyen-plnnf/trash-dataset_fin-ogqnw/dataset/1
